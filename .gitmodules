@@ -1,0 +1,6 @@
+[submodule "External/AppStruct"]
+	path = External/AppStruct
+	url = git://github.com/appcove/AppStruct.git
+[submodule "External/FileStruct"]
+	path = External/FileStruct
+	url = git://github.com/appcove/FileStruct.git
